@@ -258,7 +258,7 @@ public class LockedmeApp {
 	public static void welcomeMessage() {
 		System.out.println("*-------------");
 		System.out.println("||----------------------------------------------------------||");
-		System.out.println("||------------------  LockedMe.com mm-----------------------||");
+		System.out.println("||-----------------------LockedMe.com-----------------------||");
 		System.out.println("||**** Appplication Developed by: Tommy Iverson Johnson ****||");
 	    }
 
